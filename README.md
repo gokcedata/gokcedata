@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**gokcedata/gokcedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🌍 Hey, I'm Gökçe!  
 
 🔬 **Environmental Engineer transitioning into AI & Data Science**  
