@@ -1,6 +1,6 @@
 # 🌍 Hey, I'm Gökçe!  
 
-🔬 **Environmental Engineer transitioning into AI & Data Science**  
+🔬 **Environmental Engineer specializing in AI & Data Science**  
 🌱 **Passionate about GreenTech, Sustainability & Carbon Emission Analytics**  
 🚀 **Solving real-world challenges in climate change with data-driven insights**  
 
